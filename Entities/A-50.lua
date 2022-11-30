@@ -2,7 +2,7 @@ local Creator = loadstring(game:HttpGet("https://raw.githubusercontent.com/Regul
 
 -- Create entity
 local entity = Creator.createEntity({
-    CustomName = "A-50", -- Custom name of your entity
+    CustomName = "A-60", -- Custom name of your entity
     Model = "https://github.com/ChronoAccelerator/CometRestorationPortalFullOfEntitiesAndStuffYes/blob/main/A-50.rbxm?raw=true", -- Can be GitHub file or rbxassetid
     Speed = 400, -- Percentage, 100 = default Rush speed
     DelayTime = 2, -- Time before starting cycles (seconds)
@@ -50,7 +50,7 @@ local entity = Creator.createEntity({
             },
         },
     },
-    CustomDialog = {"You died to A-50", "Survive next-time!", "It is just like Ambush but 10x rare!", "And it rebounds a tad bit more!"}, -- Custom death message
+    CustomDialog = {"You died to A-60", "Survive next-time!", "It is just like Ambush but 10x rare!", "And it rebounds a tad bit more!"}, -- Custom death message
 })
 
 -----[[ Advanced ]]-----
