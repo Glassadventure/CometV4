@@ -1,4 +1,4 @@
-local Creator = loadstring(game:HttpGet("https://raw.githubusercontent.com/Xactver/LUA-Scripts/main/ShopItemCrucifix"))()
+local Creator = loadstring(game:HttpGet("https://raw.githubusercontent.com/ChronoAccelerator/CometV4/main/Misc/CustomCreator.lua"))()
 
 -- Create entity
 local entity = Creator.createEntity({
