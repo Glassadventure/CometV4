@@ -1,5 +1,5 @@
 --Buggy :( 
-local Creator = loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Utilities/main/Doors%20Entity%20Spawner/Source.lua"))()
+local Creator = loadstring(game:HttpGet("https://raw.githubusercontent.com/ChronoAccelerator/CometV4/main/Misc/CustomCreator.lua"))()
 
     local entity = Creator.createEntity({
         Model = "https://github.com/fnaclol/sussy-bois/raw/main/FireBrand3.rbxm",
