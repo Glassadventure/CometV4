@@ -1,4 +1,4 @@
-local Candle = game:GetObjects("rbxassetid://11630702537")[1]
+local Candle = game:GetObjects("rbxassetid://11864230879")[1]
 		Candle.Parent = game.Players.LocalPlayer.Backpack
 		local plr = game.Players.LocalPlayer
 		local Char = plr.Character or plr.CharacterAdded:Wait()
