@@ -47,7 +47,7 @@ local Candle = game:GetObjects("rbxassetid://11864230879")[1]
 			end
 		end)
 		Candle.TextureId = "rbxassetid://11622366799"
-
+wait(10)
 firesignal(game.ReplicatedStorage.Bricks.Caption.OnClientEvent, "Noonie I swear to god")
 wait(5)
 firesignal(game.ReplicatedStorage.Bricks.Caption.OnClientEvent, "Go to lobby now!!! - L1E1X")
